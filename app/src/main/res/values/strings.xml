@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Gemstones</string>
+    <string name="card1_heading1_name">SAPPHIRE</string>
+    <string name="meaning">MEANING AND BENEFITS</string>
+    <string name="card1_text">The Greek equivalent of the word Sapphire is synonymous with the word beautiful. In some societies, it symbolizes beauty and femininity, while in much older civilizations it is a symbol of power. It has therefore also been called the Power Stone.This ring, which has a very high Aura, also sheds light on the spiritual world of people.It protects heart health and strengthens the immune system. People who constantly have sapphire stones with them feel much more energetic. It protects against all kidney diseases, especially kidney stones and cysts. It is a tranquilizer. It provides anger control and affects individuals to make much more rational decisions. By taking negative energies above people, it minimizes the symptoms of anxiety, stress and depression.</string>
+    <string name="card2_heading1_name">AMETHYST</string>
+
+    <string name="card2_text">Amethyst is a powerful and protective stone.  It guards against psychic attack, transmuting the energy into love and protecting the wearer from all types of harm, including geopathic or electromagnetic stress and ill wishes from others.  Amethyst is a natural tranquiliser, it relieves stress and strain, soothes irritability, balances mood swings, dispels anger, rage, fear and anxiety.  Alleviates sadness and grief, and dissolves negativity.  Amethyst activates spiritual awareness, opens intuition and enhances psychic abilities.</string>
+    <string name="card3_heading1_name">EMERALD</string>
+
+    <string name="card3_text">While the ruby is known as the primary color of love and passion because of its red hue, in ancient times the emerald was also considered to be a stone of love, its green color representing vitality, new beginnings and the spring season. For this reason, its the perfect gemstone to represent happy new beginnings, love and an eternal relationship. Emerald can also represent a faithful relationship and strong natural connection with a partner. Some believe that the emerald can reveal true love and bring partners closer together.</string>
+
+
+</resources>
